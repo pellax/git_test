@@ -1,6 +1,6 @@
 
 Estoy haciendo una prueba
-modifico el master 
-modifico el master por segunda vez
-
-
+=======
+modifico la rama
+segunda modificación rama
+>>>>>>> rama1
