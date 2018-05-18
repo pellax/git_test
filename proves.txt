@@ -1,3 +1,7 @@
+
 Estoy haciendo una prueba
+<<<<<<< HEAD
 modifico el master 
+
+=======
 
